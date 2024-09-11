@@ -1,5 +1,5 @@
 # rothko-painting
-his project is part of FreeCodeCamp's Responsive Web Design Certification. It demonstrates the use of the CSS Box Model by creating Rothko-style art pieces using HTML and CSS.
+This project is part of FreeCodeCamp's Responsive Web Design Certification. It demonstrates the use of the CSS Box Model by creating Rothko-style art pieces using HTML and CSS.
 
 ## Concepts Used:
 - CSS Box Model (padding, margin, border)
